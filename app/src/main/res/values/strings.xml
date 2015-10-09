@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleLoginTDD</string>
+    <string name="authentication_fail_message">Invalid username / password</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="dialog_ok_button_text">OK</string>
+</resources>
